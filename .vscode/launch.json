@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "climbingStairs70",
+      "request": "launch",
+      "mainClass": "DynamicProgramming.leetcode.climbingStairs70",
+      "projectName": "ADI_4Credit_585a9026"
+    },
+    {
+      "type": "java",
       "name": "FindRightSibling",
       "request": "launch",
       "mainClass": "Trees.FindRightSibling",
