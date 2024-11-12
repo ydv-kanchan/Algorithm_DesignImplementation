@@ -1,5 +1,5 @@
 import java.util.*;
-public class Treefromarray {
+public class TreefromarrayBySir {
 
     class Node {
         int data;
@@ -11,7 +11,7 @@ public class Treefromarray {
 
     Scanner sc = new Scanner(System.in);
 
-    Treefromarray() {
+    TreefromarrayBySir() {
         this.root = CreateTree();
     }
 
@@ -65,7 +65,7 @@ public class Treefromarray {
     //levelorder level1, level2....
 
     public static void main(String[] args) {
-        Treefromarray tree = new Treefromarray();
+        TreefromarrayBySir tree = new TreefromarrayBySir();
         //10 true 20 false false 40 true 40 true false false false false
         //output: print each node with left right 
         tree.Display();

@@ -3,6 +3,90 @@
   "configurations": [
     {
       "type": "java",
+      "name": "FindRightSibling",
+      "request": "launch",
+      "mainClass": "Trees.FindRightSibling",
+      "projectName": "ADI_4Credit_585a9026"
+    },
+    {
+      "type": "java",
+      "name": "FractionalKnamsack",
+      "request": "launch",
+      "mainClass": "FractionalKnamsack",
+      "projectName": "ADI_4Credit_585a9026"
+    },
+    {
+      "type": "java",
+      "name": "DigitSum",
+      "request": "launch",
+      "mainClass": "DigitSum",
+      "projectName": "ADI_4Credit_585a9026"
+    },
+    {
+      "type": "java",
+      "name": "HashTableChaining",
+      "request": "launch",
+      "mainClass": "HashTableChaining",
+      "projectName": "ADI_4Credit_585a9026"
+    },
+    {
+      "type": "java",
+      "name": "IterativeAnalysis",
+      "request": "launch",
+      "mainClass": "Complexities.IterativeAnalysis",
+      "projectName": "ADI_4Credit_585a9026"
+    },
+    {
+      "type": "java",
+      "name": "GCD",
+      "request": "launch",
+      "mainClass": "Complexities.GCD",
+      "projectName": "ADI_4Credit_585a9026"
+    },
+    {
+      "type": "java",
+      "name": "Hey",
+      "request": "launch",
+      "mainClass": "Hey",
+      "projectName": "ADI_4Credit_585a9026"
+    },
+    {
+      "type": "java",
+      "name": "TestPad3",
+      "request": "launch",
+      "mainClass": "TestPad3",
+      "projectName": "ADI_4Credit_585a9026"
+    },
+    {
+      "type": "java",
+      "name": "StringInput",
+      "request": "launch",
+      "mainClass": "StringInput",
+      "projectName": "ADI_4Credit_585a9026"
+    },
+    {
+      "type": "java",
+      "name": "TestPad1",
+      "request": "launch",
+      "mainClass": "TestPad1",
+      "projectName": "ADI_4Credit_585a9026"
+    },
+    {
+      "type": "java",
+      "name": "testPad1",
+      "request": "launch",
+      "mainClass": "testPad1",
+      "projectName": "ADI_4Credit_585a9026"
+    },
+    {
+      "type": "java",
+      "name": "main",
+      "request": "launch",
+      "mainClass": "main",
+      "projectName": "ADI_4Credit_585a9026"
+    },
+    {
+      "type": "java",
       "name": "InputsForBT",
       "request": "launch",
       "mainClass": "InputsForBT",
