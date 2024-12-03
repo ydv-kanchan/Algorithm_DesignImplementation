@@ -1,5 +1,6 @@
 import java.util.*;
 
+//weighted undirected graph using hashmap inside a hashmap
 public class graphUsingHashmap {
     static class Graph {
         HashMap<Integer, HashMap<Integer, Integer>> weightedGraph;
@@ -41,7 +42,6 @@ public class graphUsingHashmap {
                 if (!visited.contains(i)) {
                     boolean a = hasPath(i, dest, visited);
                     visited.add(i);
-
                     if (a) {
                         return true;
                     }
