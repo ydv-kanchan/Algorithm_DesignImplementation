@@ -1,3 +1,4 @@
+package GraphTraversals.GraphTraversals;
 import java.util.*;
 
 public class GraphTraverals {

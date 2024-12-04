@@ -1,3 +1,4 @@
+package ShortestPathAlgos;
 // import java.ut/il.*;
 
 public class FloydWarshall {
@@ -57,3 +58,4 @@ public class FloydWarshall {
         floydWarshall(graph);
     }
 }
+

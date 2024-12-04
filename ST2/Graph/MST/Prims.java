@@ -1,3 +1,4 @@
+package MSTalgos;
 import java.util.*;
 
 public class Prims {
